@@ -1,9 +1,10 @@
 # Refactoring
-Marketing Agency
+**Marketing Agency**
 
 # Refactoring-Horiseon
 
 Marketing Agency
+
 User Story
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
