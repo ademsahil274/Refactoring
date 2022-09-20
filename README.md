@@ -1,5 +1,4 @@
 # Refactoring-Horiseon
-## Marketing Agency ##
 
 # User Story
 AS A marketing agency
