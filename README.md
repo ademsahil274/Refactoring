@@ -26,7 +26,11 @@ THEN I find a concise, descriptive title <br>
 * Changed a "div" class to "section" class elemant. <br>
 * Changed a "div" to semantic element "footer". <br>
 
+## Screen Shot:
+![Alt text](assets/images/ScreenShot%201.PNG)
+![Alt text](assets/images/Screen%20Shot%202.PNG)
 
-## links:-
+## links:
 * https://github.com/ademsahil274/Refactoring
 * https://ademsahil274.github.io/Refactoring/
+* http://127.0.0.1:5501/index.html#social-media-marketing
